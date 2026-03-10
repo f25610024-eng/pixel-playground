@@ -45,11 +45,11 @@ const About = () => {
               <div className="space-y-4 font-mono text-sm leading-relaxed">
                 <p className="text-muted-foreground">
                   <span className="text-primary"># </span>
-                  <span className="text-foreground font-semibold">Hello, I'm Najam Ali Abass</span>
+                  <span className="text-foreground font-semibold">Hello, I'm Muska Nadeem</span>
                 </p>
                 <p className="text-muted-foreground">
-                  Project management professional with 2+ years of experience supporting
-                  Scrum framework and agile practices in cross-functional teams.
+                  I am a student at National University of Technology. Working for a company as a marketing lead and trying to
+                  polish my management and strategy execution skills.
                 </p>
                 <p className="text-muted-foreground">
                   Proven track record in product strategy execution, user story development,
