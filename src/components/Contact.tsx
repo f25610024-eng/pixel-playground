@@ -45,11 +45,11 @@ const Contact = () => {
             <div className="space-y-4 mb-8">
               <div className="flex items-center gap-3 text-muted-foreground">
                 <Mail className="w-5 h-5 text-primary" />
-                <span className="font-mono">najamabass2020@gmail.com</span>
+                <span className="font-mono">muskanadeem8299@gmail.com</span>
               </div>
               <div className="flex items-center gap-3 text-muted-foreground">
                 <Phone className="w-5 h-5 text-primary" />
-                <span className="font-mono">+92-317-3036098</span>
+                <span className="font-mono">+92 319 9454500</span>
               </div>
               <div className="flex items-center gap-3 text-muted-foreground">
                 <MapPin className="w-5 h-5 text-primary" />
@@ -59,8 +59,8 @@ const Contact = () => {
 
             <div className="flex gap-4">
               {[
-                { icon: Github, href: "https://github.com/ctoic", label: "GitHub" },
-                { icon: Mail, href: "mailto:najamabass2020@gmail.com", label: "Email" },
+                { icon: Github, href: "https://github.com/f25610024-eng", label: "GitHub" },
+                { icon: Mail, href: "mailto:muskanadeem8299@gmail.com", label: "Email" },
               ].map((social) => (
                 <a
                   key={social.label}
